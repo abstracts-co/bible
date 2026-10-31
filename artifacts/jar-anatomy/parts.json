@@ -1,0 +1,80 @@
+{
+  "note": "What the figure labels. 'fact' holds published values (a range where sources differ); 'drawn' is the size used in the reconstruction. Source numbers refer to SOURCES.md.",
+  "parts": [
+    {
+      "id": "jar",
+      "n": "01",
+      "name": "Cylindrical jar",
+      "read": "Jar · H 49.8–62 · Ø 24–27.9 cm",
+      "fact": "H 49.8–62 cm, Ø 24–27.9 cm",
+      "drawn": "drawn 56 × 26 cm",
+      "sources": [
+        1,
+        2,
+        3,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "lid",
+      "n": "02",
+      "name": "Bowl-shaped lid",
+      "read": "Lid · H 5–7.7 · Ø 17.8–18.2 cm",
+      "fact": "H 5–7.7 cm, Ø 17.8–18.2 cm",
+      "drawn": "drawn 6.5 × 18 cm",
+      "sources": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "wrapper",
+      "n": "03",
+      "name": "Linen wrapper",
+      "read": "Linen · folded, wrapped round",
+      "fact": "cloth doubled, folded again, wrapped round the scroll",
+      "drawn": "thickness exaggerated",
+      "sources": [
+        4,
+        1,
+        9
+      ]
+    },
+    {
+      "id": "scroll",
+      "n": "04",
+      "name": "Rolled scroll",
+      "read": "Scroll · H 14–25 cm",
+      "fact": "Cave 1 scrolls H 14–25 cm",
+      "drawn": "drawn 24 cm",
+      "sources": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "thong",
+      "n": "05",
+      "name": "Leather thong",
+      "read": "Thong · W 0.3–0.8 cm",
+      "fact": "W 0.3–0.8 cm, L 7–30 cm",
+      "drawn": "drawn 0.5 cm",
+      "sources": [
+        1,
+        4
+      ]
+    }
+  ],
+  "sealed": "Sealed · lid on the jar",
+  "open": {
+    "jar": 0.42,
+    "lid": 1,
+    "wrapper": 0.62,
+    "scroll": 0.82,
+    "thong": 0.82
+  }
+}
