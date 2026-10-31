@@ -21,6 +21,7 @@ Nobody may use this community's content to train AI models or for AI research, c
 
 ## What's here
 
+- [Document indexes](indexes/README.md): reusable PageIndex outlines and leaf text for agents, with the [read-an-index skill](skills/read-an-index/SKILL.md).
 - [Caves and landscape](artifacts/qumran-map/): Leaflet map of two approximate site locations and a sourced catalogue of Caves 1–11. Cave coordinates remain unverified and are explicitly unmapped.
 - [A discovery still unfolding](artifacts/timeline/): 16 interactive milestones from the 1946/47 discovery through radiocarbon and AI research, with a 2026 editorial checkpoint.
 - [A Qumran scroll jar](artifacts/jar/): procedural three.js model of KhQ 1474, based on published jar and lid dimensions; includes a 10 cm scale bar.

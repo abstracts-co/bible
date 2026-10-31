@@ -1,0 +1,153 @@
+{
+  "id": "isaiah-2021",
+  "title": "Artificial intelligence based writer identification generates new evidence for the unknown scribes of the Dead Sea Scrolls exemplified by the Great Isaiah Scroll (1QIsaa)",
+  "source": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0249769&type=printable",
+    "publisher": "PLOS ONE",
+    "date": "2021-04-21",
+    "pages": 28,
+    "sha256": "2155e4ababd5ed8d65322f3f62ec9dfaab2a824813984392c4cc01a728c19962",
+    "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/; Popović M, Dhali MA, Schomaker L (2021), PLOS ONE 16(4): e0249769, https://doi.org/10.1371/journal.pone.0249769"
+  },
+  "tool": {
+    "name": "PageIndex",
+    "version": "0.5.0",
+    "method": "Local Flash layout extraction with deterministic merge and Claude Code refinement/summaries; editorial heading corrections, summary shortening, and Poppler leaf-page text extraction.",
+    "models": [
+      "claude-code/haiku"
+    ]
+  },
+  "built": "2026-10-30",
+  "tree": [
+    {
+      "node_id": "0000",
+      "title": "Abstract",
+      "start_page": 1,
+      "end_page": 2,
+      "summary": "A 2021 PLOS ONE article by Popović, Dhali, and Schomaker uses AI-based writer identification on the Great Isaiah Scroll (1QIsaa) from the Dead Sea Scrolls. Analyses of column point clouds, statistical tests, and Fraglet heatmaps find a phase transition at columns 27–29 and higher variance in the second half, indicating two main scribes who closely collaborated.",
+      "nodes": []
+    },
+    {
+      "node_id": "0001",
+      "title": "1 Introduction",
+      "start_page": 2,
+      "end_page": 5,
+      "summary": "The text introduces the Dead Sea Scrolls (4th century BCE to 2nd century CE), focusing on the anonymous scribes behind them, especially the Qumran collection. It explains that scribal identification is hard because handwriting variation within one writer can resemble differences between writers, and that current palaeographic methods lack robust, verifiable criteria.",
+      "nodes": []
+    },
+    {
+      "node_id": "0002",
+      "title": "2 Materials and methods",
+      "start_page": 5,
+      "end_page": 10,
+      "summary": "Methods for a Dead Sea Scrolls study of 1QIsaa handwriting: dataset of 2463 scroll images with binarization and geometric/elastic preprocessing; primary feature-space analysis (textural, allographic via Kohonen maps, weighted combination) with chi-square comparison and PCA; secondary statistical cross-check of style transitions across columns (fraglet shape features, 80x80 self-organizing map, neighbour tests, logistic fitting); tertiary post-hoc visual palaeographic analysis with heatmaps and discriminating fraglets; data shared on Zenodo.",
+      "nodes": [
+        {
+          "node_id": "0003",
+          "title": "2 Materials and methods",
+          "start_page": 5,
+          "end_page": 6,
+          "summary": "Describes the methods section of a Dead Sea Scrolls study (1QIsaa). It covers the dataset and preprocessing; textural features analyzed with pattern recognition and allographic features with neural networks (Kohonen maps); second-level shape-feature analysis with statistical evaluation; and a post-hoc visual analysis.",
+          "nodes": []
+        },
+        {
+          "node_id": "0004",
+          "title": "2.1 Dataset and image preparation",
+          "start_page": 6,
+          "end_page": 6,
+          "summary": "Describes the 1QIsaa dataset: 2463 Brill Publishers scroll images (columns 1–54, minus 16 and 46, with duplicates noted in S2). Second-level analysis uses multispectral Dead Sea Scrolls images from the Israel Antiquities Authority to extract character shapes and build self-organizing maps.",
+          "nodes": []
+        },
+        {
+          "node_id": "0005",
+          "title": "2.2 Primary analyses: Feature-space explorations",
+          "start_page": 6,
+          "end_page": 8,
+          "summary": "Describes the feature-space analysis of 1QIsaa handwriting from Dead Sea Scrolls images. Binarized column images undergo three feature extraction methods: textural (pattern recognition), allographic (neural networks), and an adjoined weighted combination.",
+          "nodes": []
+        },
+        {
+          "node_id": "0006",
+          "title": "2.3 Secondary analyses: Statistical evaluations",
+          "start_page": 8,
+          "end_page": 9,
+          "summary": "Describes a second-level independent cross-check of handwriting style transitions across columns of the 1QIsaa scroll using statistical tests. Five steps: fragmented-connected component contour (fco3) fraglet shape features; an 80x80 Kohonen self-organizing map (6400 prototypes from about 600k fraglets); split-scan histogram sanity checks; nearest-neighbour bookkeeping; and follow-up tests (chi-square on left-vs-right neighbour votes, ANOVA/t-test on distances, neighbour-position analysis, and logistic curve fitting to locate a phase-transition column).",
+          "nodes": []
+        },
+        {
+          "node_id": "0007",
+          "title": "2.4 Tertiary analyses: Post-hoc visual analyses",
+          "start_page": 9,
+          "end_page": 10,
+          "summary": "Describes a tertiary post-hoc visual analysis for palaeography, correlating AI/pattern-recognition results with traditional palaeographic inspection of Hebrew letters. Three steps: (1) palaeographer charts of full character shapes; (2) heatmaps aggregating all instances of each letter, offering a robust alternative to single-example charts; (3) if second-stage statistics are significant, visual analysis of the most discriminating fraglets (character parts) separating left and right sequence halves, counting all 6400 fraglet combinations per image.",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "node_id": "0008",
+      "title": "3 Results",
+      "start_page": 10,
+      "end_page": 21,
+      "summary": "Covers the 1QIsaa manuscript analyses across three parts. Primary: PCA of Hinge, Fraglet and Adjoined features shows a clear separation between columns 1-27 and 28-54, with column 29 a boundary outlier; elastic noise augmentation confirms the difference.",
+      "nodes": [
+        {
+          "node_id": "0009",
+          "title": "3.1 Primary analyses",
+          "start_page": 10,
+          "end_page": 11,
+          "summary": "Describes PCA plots of feature vectors (Hinge, Fraglet, Adjoined) from 1QIsaa manuscript columns 1-27 vs 28-54. Hinge features show separation between halves with column 29 as a near-boundary outlier; Fraglet features are less separated; the combined Adjoined feature shows clear separation.",
+          "nodes": []
+        },
+        {
+          "node_id": "0010",
+          "title": "3.2 Secondary analyses",
+          "start_page": 11,
+          "end_page": 18,
+          "summary": "Secondary analyses of 1QIsaa column sequence using fraglet features from a separate Kohonen map to cross-validate primary results. Step 5a: left/right neighbour voting shows a significant dip mid-sequence (exploratory).",
+          "nodes": []
+        },
+        {
+          "node_id": "0011",
+          "title": "3.3 Tertiary analyses",
+          "start_page": 18,
+          "end_page": 21,
+          "summary": "Describes the 'tertiary analyses' of 1QIsaa (Dead Sea Scroll) for palaeographers. Step 1: full-character ink-trace charts traced directly to manuscript positions, avoiding human retracing, though visual inspection alone may be inadequate at scale.",
+          "nodes": []
+        }
+      ]
+    },
+    {
+      "node_id": "0012",
+      "title": "4 Discussion and conclusions",
+      "start_page": 21,
+      "end_page": 25,
+      "summary": "A discussion of a study using AI and pattern recognition to identify unknown scribes of the Dead Sea Scroll 1QIsaa (Isaiah). Feature analyses (Hinge, Fraglet, Adjoined) and Kohonen-map tests show a statistically significant break near column 27–28, supporting two scribes, one with more variable writing.",
+      "nodes": []
+    },
+    {
+      "node_id": "0013",
+      "title": "Supporting information",
+      "start_page": 25,
+      "end_page": 25,
+      "summary": "Lists the supporting information file and acknowledges scholarly feedback and image providers.",
+      "nodes": []
+    },
+    {
+      "node_id": "0014",
+      "title": "Author Contributions",
+      "start_page": 25,
+      "end_page": 26,
+      "summary": "Author contributions for a PLOS ONE article (April 2021, doi 10.1371/journal.pone.0249769) on AI-generated evidence about the unknown Dead Sea Scrolls scribes. Mladen Popović, Maruf A.",
+      "nodes": []
+    },
+    {
+      "node_id": "0015",
+      "title": "References",
+      "start_page": 26,
+      "end_page": 28,
+      "summary": "The text is the reference list (items 1–67) of a PLOS ONE article (April 2021) on AI-generated evidence for the unknown Dead Sea Scrolls scribes. The references cover Dead Sea Scrolls manuscript studies and scribal practices, paleography and handwriting identification (forensic and digital), writer identification algorithms, the Great Isaiah Scroll (1QIsaa) studies, Judean Desert documents, Bar Kokhba texts, and related digital library resources and datasets.",
+      "nodes": []
+    }
+  ]
+}
