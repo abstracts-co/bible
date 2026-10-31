@@ -1,0 +1,162 @@
+{
+  "checked_on": "2026-10-30",
+  "method": "HTTP GET with redirects; page titles inspected and supporting passages read during research. Status alone is not proof of a claim.",
+  "results": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+      "status": 200,
+      "title": "",
+      "final_url": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/controls/OrbitControls.js",
+      "status": 200,
+      "title": "",
+      "final_url": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/controls/OrbitControls.js"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:19077-Jerusalem_(28887225372).jpg",
+      "status": 200,
+      "title": "File:19077-Jerusalem (28887225372).jpg - Wikimedia Commons",
+      "final_url": "https://commons.wikimedia.org/wiki/File:19077-Jerusalem_(28887225372).jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:20110225_Israel_0412_Jerusalem_(5539903749).jpg",
+      "status": 200,
+      "title": "File:20110225 Israel 0412 Jerusalem (5539903749).jpg - Wikimedia Commons",
+      "final_url": "https://commons.wikimedia.org/wiki/File:20110225_Israel_0412_Jerusalem_(5539903749).jpg"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:2014-06_Israel_-_Jerusalem_014_(14754955658).jpg",
+      "status": 200,
+      "title": "File:2014-06 Israel - Jerusalem 014 (14754955658).jpg - Wikimedia Commons",
+      "final_url": "https://commons.wikimedia.org/wiki/File:2014-06_Israel_-_Jerusalem_014_(14754955658).jpg"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "status": 200,
+      "title": "Deed - Attribution-ShareAlike 2.0 Generic - Creative Commons",
+      "final_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by/2.0",
+      "status": 200,
+      "title": "Deed - Attribution 2.0 Generic - Creative Commons",
+      "final_url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0249769",
+      "status": 200,
+      "title": "Artificial intelligence based writer identification generates new evidence for the unknown scribes of the Dead Sea Scrolls exemplified by the Great Isaiah Scroll (1QIsaa) | PLOS One",
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249769"
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0323185",
+      "status": 200,
+      "title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis | PLOS One",
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323185"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ein_Feshkha",
+      "status": 200,
+      "title": "Ein Feshkha - Wikipedia",
+      "final_url": "https://en.wikipedia.org/wiki/Ein_Feshkha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_manuscripts_from_Qumran_Cave_1",
+      "status": 200,
+      "title": "List of manuscripts from Qumran Cave 1 - Wikipedia",
+      "final_url": "https://en.wikipedia.org/wiki/List_of_manuscripts_from_Qumran_Cave_1"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qumran",
+      "status": 200,
+      "title": "Qumran - Wikipedia",
+      "final_url": "https://en.wikipedia.org/wiki/Qumran"
+    },
+    {
+      "url": "https://googleblog.blogspot.com/2011/09/from-desert-to-web-bringing-dead-sea.html",
+      "status": 200,
+      "title": "\nOfficial Google Blog: From the desert to the web: bringing the Dead Sea Scrolls online\n",
+      "final_url": "https://googleblog.blogspot.com/2011/09/from-desert-to-web-bringing-dead-sea.html"
+    },
+    {
+      "url": "https://googleblog.blogspot.com/2012/12/in-beginningbringing-scrolls-of-genesis.html",
+      "status": 200,
+      "title": "\u201cIn the beginning\u201d...bringing the scrolls of Genesis and the Ten Commandments online",
+      "final_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/in-beginningbringing-scrolls-of-genesis/"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/4902/3334.png",
+      "status": 200,
+      "title": "",
+      "final_url": "https://tile.openstreetmap.org/13/4902/3334.png"
+    },
+    {
+      "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+      "status": 200,
+      "title": "",
+      "final_url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    },
+    {
+      "url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+      "status": 200,
+      "title": "",
+      "final_url": "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    },
+    {
+      "url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library",
+      "status": 200,
+      "title": "\n  The Dead Sea Scrolls - The Digital Library\n",
+      "final_url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library"
+    },
+    {
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication",
+      "status": 200,
+      "title": "\n  The Dead Sea Scrolls - Discovery and Publication\n",
+      "final_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+    },
+    {
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites",
+      "status": 200,
+      "title": "\n  The Dead Sea Scrolls - Discovery Sites\n",
+      "final_url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+    },
+    {
+      "url": "https://www.liberty.edu/news/2017/02/09/students-become-part-of-history-in-dead-sea-scrolls-cave-discovery/",
+      "status": 200,
+      "title": "Students become part of history in Dead Sea Scrolls cave discovery | Liberty News",
+      "final_url": "https://www.liberty.edu/news/2017/02/09/students-become-part-of-history-in-dead-sea-scrolls-cave-discovery/"
+    },
+    {
+      "url": "https://www.loc.gov/exhibits/scrolls/art1.html",
+      "status": 200,
+      "title": "INTRODUCTION: ARTIFACTS FROM THE QUMRAN SITE: Scrolls from the Dead Sea \n(Library of Congress Exhibition)",
+      "final_url": "https://www.loc.gov/exhibits/scrolls/art1.html"
+    },
+    {
+      "url": "https://www.loc.gov/exhibits/scrolls/intr.html",
+      "status": 200,
+      "title": "Introduction - Scrolls from the Dead Sea | Exhibitions - Library of Congress",
+      "final_url": "https://www.loc.gov/exhibits/scrolls/intr.html"
+    },
+    {
+      "url": "https://www.loc.gov/exhibits/scrolls/today.html",
+      "status": 200,
+      "title": "Two Thousand Years Later - Scrolls from the Dead Sea | Exhibitions - Library of Congress",
+      "final_url": "https://www.loc.gov/exhibits/scrolls/today.html"
+    },
+    {
+      "url": "https://www.nbcnews.com/news/world/dead-sea-scrolls-discoveries-are-first-ancient-bible-texts-be-n1261182",
+      "status": 200,
+      "title": "Dead Sea Scrolls discoveries are first ancient Bible texts to be found in 60 years",
+      "final_url": "https://www.nbcnews.com/news/world/dead-sea-scrolls-discoveries-are-first-ancient-bible-texts-be-n1261182"
+    },
+    {
+      "url": "https://www.openstreetmap.org/copyright",
+      "status": 200,
+      "title": "Copyright and License | OpenStreetMap",
+      "final_url": "https://www.openstreetmap.org/copyright"
+    }
+  ]
+}

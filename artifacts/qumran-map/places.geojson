@@ -1,0 +1,216 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 1",
+        "note": "Seven initial scrolls, including the Great Isaiah Scroll and Habakkuk Commentary.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 2",
+        "note": "Fragments of biblical books, Jubilees and Enoch.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 3",
+        "note": "The Copper Scroll and fragments of other manuscripts.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 4",
+        "note": "Thousands of fragments from hundreds of manuscripts.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 5",
+        "note": "Fragments of roughly 25 parchment scrolls.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 6",
+        "note": "Fragments of about 31 scrolls, mostly on papyrus.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 7",
+        "note": "Greek manuscript fragments, including Exodus.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 8",
+        "note": "Genesis, Psalms, a mezuzah, a hymn and tefillin fragments.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 9",
+        "note": "A single papyrus fragment.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 10",
+        "note": "An inscribed potsherd; no manuscript scroll reported.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Cave 11",
+        "note": "Temple Scroll, Psalms, Leviticus and an Aramaic Job targum.",
+        "sources": [
+          {
+            "title": "IAA: Discovery Sites",
+            "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+          }
+        ],
+        "location_status": "Unmapped: published cave coordinates not verified."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.45861,
+          31.74083
+        ]
+      },
+      "properties": {
+        "name": "Khirbet Qumran",
+        "note": "Settlement excavated near the caves; its relationship to the manuscripts remains debated.",
+        "sources": [
+          {
+            "title": "Published site coordinates (secondary location reference)",
+            "url": "https://en.wikipedia.org/wiki/Qumran"
+          },
+          {
+            "title": "Library of Congress: Introduction",
+            "url": "https://www.loc.gov/exhibits/scrolls/intr.html"
+          }
+        ],
+        "location_status": "Approximate site reference; not a surveyed boundary."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4533,
+          31.7144
+        ]
+      },
+      "properties": {
+        "name": "Ein Feshkha",
+        "note": "Spring oasis and archaeological site south of Qumran.",
+        "sources": [
+          {
+            "title": "Published site coordinates and overview (secondary)",
+            "url": "https://en.wikipedia.org/wiki/Ein_Feshkha"
+          }
+        ],
+        "location_status": "Approximate site reference; not a surveyed boundary."
+      }
+    }
+  ]
+}

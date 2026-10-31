@@ -1,0 +1,35 @@
+[
+  {
+    "file": "shrine-1.jpg",
+    "title": "19077-Jerusalem (28887225372).jpg",
+    "author": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:19077-Jerusalem_(28887225372).jpg",
+    "modification": "Resized and recompressed as JPEG; no crop.",
+    "width": 1280,
+    "height": 854
+  },
+  {
+    "file": "shrine-2.jpg",
+    "title": "20110225 Israel 0412 Jerusalem (5539903749).jpg",
+    "author": "Dan Lundberg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20110225_Israel_0412_Jerusalem_(5539903749).jpg",
+    "modification": "Resized and recompressed as JPEG; no crop.",
+    "width": 1280,
+    "height": 791
+  },
+  {
+    "file": "shrine-3.jpg",
+    "title": "2014-06 Israel - Jerusalem 014 (14754955658).jpg",
+    "author": "Edmund Gall",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014-06_Israel_-_Jerusalem_014_(14754955658).jpg",
+    "modification": "Resized and recompressed as JPEG; no crop.",
+    "width": 853,
+    "height": 1280
+  }
+]
