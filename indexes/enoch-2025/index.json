@@ -1,0 +1,88 @@
+{
+  "id": "enoch-2025",
+  "title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis",
+  "source": {
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0323185&type=printable",
+    "publisher": "PLOS ONE",
+    "date": "2025-06-04",
+    "pages": 14,
+    "sha256": "a84e3cd594135f18d85e97878ae3c10786ea9c2212ab8d9f007b5b83ffdffc73",
+    "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/; Popović M et al. (2025), PLOS ONE 20(6): e0323185, https://doi.org/10.1371/journal.pone.0323185"
+  },
+  "tool": {
+    "name": "PageIndex",
+    "version": "0.5.0",
+    "method": "Local Flash layout extraction with deterministic merge and Claude Code refinement/summaries; editorial heading corrections, summary shortening, and Poppler leaf-page text extraction.",
+    "models": [
+      "claude-code/haiku"
+    ]
+  },
+  "built": "2026-10-30",
+  "tree": [
+    {
+      "node_id": "0000",
+      "title": "Dating ancient manuscripts using radiocarbon and AI-based writing style analysis",
+      "start_page": 1,
+      "end_page": 14,
+      "summary": "Introduces the Enoch AI model (Popović et al., 2025, PLOS ONE) for dating Dead Sea Scrolls. Trained on 24 radiocarbon-dated samples using Bayesian ridge regression on writing-style features, it has 27.9-30.7 year mean absolute error and matched palaeographic evaluation 79% of the time on 135 undated scrolls.",
+      "nodes": [
+        {
+          "node_id": "0001",
+          "title": "Introduction",
+          "start_page": 1,
+          "end_page": 2,
+          "summary": "The text is the opening of a PLOS ONE article (Popović et al., 2025) on dating ancient manuscripts such as the Dead Sea Scrolls. It covers the difficulty of palaeographic dating given few date-bearing manuscripts, and introduces Enoch, an AI model trained on 24 radiocarbon-dated scroll samples using Bayesian ridge regression on writing-style features.",
+          "nodes": []
+        },
+        {
+          "node_id": "0002",
+          "title": "Integration of multiple dating methods",
+          "start_page": 2,
+          "end_page": 5,
+          "summary": "Describes radiocarbon (14C) dating of 30 Dead Sea Scrolls manuscripts from Qumran, Masada, Murabba'at, and Nahal Hever, including solvent-based lipid removal, dual AMS measurements, and 27 valid dates. Results generally indicate older dates and show Hasmonaean manuscripts clustered narrowly while Herodian ones spread widely; manuscript 4Q114 (Daniel 8-11) dated 230-160 BCE.",
+          "nodes": []
+        },
+        {
+          "node_id": "0003",
+          "title": "Validating Enoch",
+          "start_page": 5,
+          "end_page": 6,
+          "summary": "Describes validation of the Enoch AI model for dating ancient manuscripts using 14C and writing-style analysis. 62 of 75 images trained the model; 13 unseen images gave 85.14% overlap with 14C distributions. Leave-one-out tests were also run.",
+          "nodes": []
+        },
+        {
+          "node_id": "0004",
+          "title": "Exploration of style-based dating on unseen manuscripts",
+          "start_page": 6,
+          "end_page": 7,
+          "summary": "Describes Enoch, a style-based dating method for manuscripts (U-Net ink separation, allograph and edge-angle histograms, PCA, Bayesian ridge regression with 14C training and elastic-morphing augmentation). Applied to 135 undated Dead Sea Scrolls, 79% of predictions were palaeographically realistic (21% unrealistic: 46% too old, 39% too young; ~7% margin at alpha 0.05).",
+          "nodes": []
+        },
+        {
+          "node_id": "0005",
+          "title": "The Enoch approach to dating ancient manuscripts",
+          "start_page": 7,
+          "end_page": 10,
+          "summary": "Describes the Enoch model, an explainable ML approach that dates handwritten manuscripts from raw images, combining 14C probability distributions with palaeographic/shape-based evidence. Examples: 4Q259 and 4Q319 (same manuscript) get similar date estimates.",
+          "nodes": []
+        },
+        {
+          "node_id": "0006",
+          "title": "Aramaic/Hebrew script development in ancient Judaea",
+          "start_page": 10,
+          "end_page": 12,
+          "summary": "Argues Aramaic/Hebrew script development in ancient Judaea should be dated earlier than prior palaeography: 14C and Enoch AI estimates are older, Hasmonaean-type manuscripts may date to early second century BCE, and Herodian script emerged earlier and coexisted with Hasmonaean. Enoch dates 4Q109 (Ecclesiastes) to the third century BCE, and 4Q114 is among the earliest biblical fragments.",
+          "nodes": []
+        },
+        {
+          "node_id": "0007",
+          "title": "References",
+          "start_page": 12,
+          "end_page": 14,
+          "summary": "The text is the reference list (items 1-43) of a PLOS One article on dating ancient manuscripts using radiocarbon and AI-based writing style analysis. It cites works on Dead Sea Scrolls palaeography, radiocarbon dating studies, writer identification and handwriting-based dating methods, historical manuscript datasets, and related machine learning and statistical methods.",
+          "nodes": []
+        }
+      ]
+    }
+  ]
+}
