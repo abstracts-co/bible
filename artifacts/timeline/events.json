@@ -1,0 +1,222 @@
+[
+  {
+    "date": "1946/1947",
+    "label": "First Cave 1 finds",
+    "note": "Bedouin shepherds recovered seven scrolls. Retrospective accounts differ: late 1946–early 1947; institutional summaries commonly use 1947.",
+    "sources": [
+      {
+        "title": "IAA: Discovery and Publication",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+      },
+      {
+        "title": "Library of Congress: Introduction",
+        "url": "https://www.loc.gov/exhibits/scrolls/intr.html"
+      },
+      {
+        "title": "Cave 1 manuscript list: discovery date range (secondary)",
+        "url": "https://en.wikipedia.org/wiki/List_of_manuscripts_from_Qumran_Cave_1"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "1947–1956",
+    "label": "Eleven caves yield finds",
+    "note": "Searches by Bedouin and archaeologists brought manuscripts and fragments to light; Cave 10 yielded an inscribed potsherd.",
+    "sources": [
+      {
+        "title": "IAA: Discovery and Publication",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+      },
+      {
+        "title": "IAA: Discovery Sites",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "1949",
+    "label": "Cave 1 excavated",
+    "note": "Archaeological excavation recovered further material, including linen textiles.",
+    "sources": [
+      {
+        "title": "Library of Congress: Introduction",
+        "url": "https://www.loc.gov/exhibits/scrolls/intr.html"
+      }
+    ],
+    "key": false
+  },
+  {
+    "date": "1952",
+    "label": "Caves 2–6",
+    "note": "Finds included the Copper Scroll in Cave 3 and thousands of manuscript fragments in Cave 4.",
+    "sources": [
+      {
+        "title": "IAA: Discovery Sites",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "1955",
+    "label": "Caves 7–10",
+    "note": "Greek fragments came from Cave 7; Cave 10 yielded a single inscribed potsherd.",
+    "sources": [
+      {
+        "title": "IAA: Discovery Sites",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+      }
+    ],
+    "key": false
+  },
+  {
+    "date": "1956",
+    "label": "Cave 11",
+    "note": "Finds included the Psalms Scroll and Temple Scroll.",
+    "sources": [
+      {
+        "title": "IAA: Discovery Sites",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites"
+      },
+      {
+        "title": "Library of Congress: Introduction",
+        "url": "https://www.loc.gov/exhibits/scrolls/intr.html"
+      }
+    ],
+    "key": false
+  },
+  {
+    "date": "1965",
+    "label": "Shrine of the Book",
+    "note": "The Shrine was built to house the first seven scrolls; public exhibition began in 1965.",
+    "sources": [
+      {
+        "title": "IAA: Discovery and Publication",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+      },
+      {
+        "title": "Google / Israel Museum digital project launch",
+        "url": "https://googleblog.blogspot.com/2011/09/from-desert-to-web-bringing-dead-sea.html"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "1991",
+    "label": "Photographs become widely accessible",
+    "note": "The Biblical Archaeology Society published photographs; the Huntington Library opened its photographic security copies to scholars.",
+    "sources": [
+      {
+        "title": "Library of Congress: Two Thousand Years Later",
+        "url": "https://www.loc.gov/exhibits/scrolls/today.html"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2001",
+    "label": "Most official editions published",
+    "note": "The IAA’s expanded editorial project had published the majority of the official editions by 2001.",
+    "sources": [
+      {
+        "title": "IAA: Discovery and Publication",
+        "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+      }
+    ],
+    "key": false
+  },
+  {
+    "date": "2011-09-26",
+    "label": "Israel Museum scrolls online",
+    "note": "Five digitized scrolls became accessible through the Israel Museum and Google partnership.",
+    "sources": [
+      {
+        "title": "Google / Israel Museum digital project launch",
+        "url": "https://googleblog.blogspot.com/2011/09/from-desert-to-web-bringing-dead-sea.html"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2012-12-18",
+    "label": "Leon Levy Digital Library",
+    "note": "The IAA launched its library with about 5,000 images of scroll fragments.",
+    "sources": [
+      {
+        "title": "Google / IAA digital library launch",
+        "url": "https://googleblog.blogspot.com/2012/12/in-beginningbringing-scrolls-of-genesis.html"
+      },
+      {
+        "title": "IAA: The Digital Library",
+        "url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2017-02",
+    "label": "“Cave 12” announcement",
+    "note": "The excavation team reported storage-jar fragments and material associated with scroll storage. The designation is evidence of possible former storage, not a newly recovered written scroll.",
+    "sources": [
+      {
+        "title": "Liberty University excavation team report",
+        "url": "https://www.liberty.edu/news/2017/02/09/students-become-part-of-history-in-dead-sea-scrolls-cave-discovery/"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2021-03-16",
+    "label": "New fragments announced",
+    "note": "The IAA announced Greek Minor Prophets fragments from the Cave of Horror at Nahal Hever, south of Qumran. Announcement date, not the date each fragment was excavated.",
+    "sources": [
+      {
+        "title": "NBC report of IAA announcement (March 16, 2021; corrected March 18)",
+        "url": "https://www.nbcnews.com/news/world/dead-sea-scrolls-discoveries-are-first-ancient-bible-texts-be-n1261182"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2021-04-21",
+    "label": "AI studies scribal hands",
+    "note": "A handwriting study found evidence for two main scribes in the Great Isaiah Scroll. Writer identification is distinct from dating.",
+    "sources": [
+      {
+        "title": "Popović, Dhali & Schomaker (2021), PLOS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0249769"
+      }
+    ],
+    "key": false
+  },
+  {
+    "date": "2025-06-04",
+    "label": "Radiocarbon meets AI dating",
+    "note": "The study reports 27 valid radiocarbon dates, trains Enoch on 24 dated manuscripts and predicts dates for 135 undated scrolls. Results are probability ranges; some are older than traditional estimates. Material age is not the date a text was first composed.",
+    "sources": [
+      {
+        "title": "Popović et al. (2025), PLOS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0323185"
+      }
+    ],
+    "key": true
+  },
+  {
+    "date": "2026-10-30",
+    "label": "Research remains open",
+    "note": "Editorial checkpoint: dating, fragment reconstruction and imaging remain research questions. This is not an announcement of a new 2026 discovery. Small training sets, calibration and contamination constrain dating models.",
+    "sources": [
+      {
+        "title": "Popović et al. (2025), PLOS ONE",
+        "url": "https://doi.org/10.1371/journal.pone.0323185"
+      },
+      {
+        "title": "IAA: The Digital Library",
+        "url": "https://www.deadseascrolls.org.il/about-the-project/the-digital-library"
+      }
+    ],
+    "key": false
+  }
+]
