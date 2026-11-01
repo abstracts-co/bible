@@ -22,7 +22,7 @@ try {
     source.href = p.source;
     source.textContent = 'original on Wikimedia Commons';
     for (const a of [license, source]) { a.target = '_blank'; a.rel = 'noopener'; }
-    caption.append('Photo: ', who, ' · ', license, ' · ', source, '. ' + p.modification);
+    caption.append('Photo: ', who, ' · ', license, ' · ', source, ' · resized');
     figure.append(img, caption);
     container.append(figure);
   }
