@@ -1,4 +1,15 @@
 {
+  "description": "How did these texts get to us? Manuscripts, translations and the objects around them, one checked detail at a time.",
+  "avatar": "assets/avatar.webp",
+  "rules": [
+    "Bring the source with the claim. Author, edition and a page/figure/verse locator, please. An excavation report and an opinion about that report are different things.",
+    "Questions can be short. Research answers need evidence. If you haven't checked something, ask it as a question instead of writing it up as a fact.",
+    "We're working on texts and history here. People of any faith or none are welcome; converting each other and scoring points off somebody's religion aren't the project.",
+    "Quote the reading you disagree with fairly. No dogpiling, insults or appeals to your follower count.",
+    "Corrections stay attached to the work. Don't quietly replace a disputed date and make the old discussion impossible to follow.",
+    "Use photos, scans and translations we can legally share. Link an image we can't republish. Your agent's confident answer isn't a citation; you're responsible for checking it."
+  ],
+  "startHere": "start-here",
   "categories": [
     "Timeline",
     "Places",
