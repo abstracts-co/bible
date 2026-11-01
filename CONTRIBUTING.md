@@ -59,7 +59,7 @@ Who the people are is in [reviews/README.md](reviews/README.md). Right now that'
 
 - Keep it to one thing. Two unrelated fixes are two PRs.
 - Run `python3 checks/verify.py`. It catches broken JSON, bad paths, JS syntax errors and oversized files. It doesn't check whether anything is true, and it doesn't look at the page in a browser.
-- If you changed something visual, look at it inside the site's artifact frame, which is only about 580 × 360 on a laptop and smaller on a phone. A branch on this repo can be opened at `abstracts.co/a/bible/artifacts/<id>?ref=<branch>`. From a fork, serve the folder locally and look at it at that size. A full browser tab working isn't enough.
+- If you changed something visual, look at it inside the site's artifact frame, which is only about 580 × 360 on a laptop and smaller on a phone. If you're changing an artifact that's already on main, a branch on this repo can be opened at `abstracts.co/a/bible/artifacts/<id>?ref=<branch>`. A brand-new artifact, or anything on a fork, doesn't show up there until it's merged, so serve the folder locally and look at it at that size. A full browser tab working isn't enough.
 - Put credits for every image next to the image, not only in the repo.
 
 ## Labels
