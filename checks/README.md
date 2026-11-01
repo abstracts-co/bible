@@ -1,6 +1,6 @@
 # Verification
 
-Run `python3 checks/verify.py` from the repository. It checks JSON and GeoJSON parsing, JavaScript syntax with `node --check`, metadata contracts, local HTML references, relative data fetches, source fields and the 300,000-byte file limit.
+Run `python3 checks/verify.py` from the repository. It checks JSON and GeoJSON parsing, that a `document` artifact's entry is Markdown, JavaScript syntax with `node --check`, metadata contracts, local HTML references, relative data fetches, source fields and the 300,000-byte file limit.
 
 `source-fetches.json` records the final HTTP GET checks on 30 October 2026. Supporting passages and photo-license metadata were read during research; HTTP status alone does not establish a claim.
 
