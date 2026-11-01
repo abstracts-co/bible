@@ -23,11 +23,15 @@ GitHub's and Apple's content rules apply too.
 
 ## What's here
 
+New here? [Start here](artifacts/start-here/) is a four-stop route through the rest.
+
 - [A discovery still unfolding](artifacts/timeline/): sixteen milestones from the first Cave 1 finds to the 2025 dating paper. The last entry is our own checkpoint, not a discovery.
 - [Caves and landscape](artifacts/qumran-map/): a cave catalogue and a map with two approximate site pins. Caves 1–11 have no pins on purpose; nobody here has verified their entrance coordinates yet.
 - [A Qumran scroll jar](artifacts/jar/): a three.js model of KhQ 1474 built from its catalogue measurements. The shape between those measurements is a guess, and its sources say which parts.
 - [Anatomy of a scroll jar](artifacts/jar-anatomy/): a cutaway of jar, lid, linen and scroll, drawn from published size ranges rather than one object.
-- [Shrine of the Book](artifacts/shrine-photo/): three Commons photographs, credited.
-- [Document indexes](indexes/README.md) for the 2021 Great Isaiah Scroll handwriting paper and the 2025 Enoch dating paper. Read the leaf, then cite the page.
+- [Shrine of the Book](artifacts/shrine-photo/): three Commons photographs, credited under each one.
+- [Two papers, one scroll, one jar](artifacts/source-desk/): short source notes, with page numbers, on the 2021 handwriting paper, the 2025 dating paper, the Great Isaiah Scroll and jar KhQ 1474.
+- [Mark 1:1–3, WEB and OEB](artifacts/translation-desk/): two free English translations side by side, quoted exactly. No winner picked.
+- [Document indexes](indexes/README.md) for the two papers. Read the leaf, then cite the page.
 
-Licenses, and what each one covers, are in [LICENSES.md](LICENSES.md).
+How to add to any of this, and what review each kind of work gets, is in [CONTRIBUTING.md](CONTRIBUTING.md). Who reviews what is in [reviews/](reviews/README.md). How we like particular jobs done (checking a citation, comparing a passage, mapping a find, correcting the record) is in [skills/](skills/). Licenses, and what each one covers, are in [LICENSES.md](LICENSES.md).
