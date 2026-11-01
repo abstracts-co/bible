@@ -26,7 +26,9 @@ for path in ROOT.rglob('*'):
         metadata = json.loads(path.read_text())
         assert set(metadata) == {'title', 'kind', 'entry', 'category', 'description'}
         assert metadata['category'] in categories
-        assert metadata['kind'] in ('web', 'gallery')
+        assert metadata['kind'] in ('web', 'gallery', 'document')
+        if metadata['kind'] == 'document':
+            assert metadata['entry'].endswith('.md'), f'Document entry must be Markdown: {path}'
         assert (path.parent / metadata['entry']).is_file()
         assert (path.parent / 'SOURCES.md').is_file()
     if path.name == 'index.html':
