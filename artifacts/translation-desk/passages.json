@@ -1,0 +1,106 @@
+{
+  "passage": "Mark 1:1–3",
+  "versions": [
+    {
+      "id": "web",
+      "name": "World English Bible",
+      "short": "WEB",
+      "edition": "2020 stable text",
+      "url": "https://ebible.org/engwebp/MRK01.htm",
+      "license": "Public domain",
+      "licenseUrl": "https://ebible.org/engwebp/copyright.htm",
+      "lines": [
+        {
+          "v": 1,
+          "style": "p",
+          "text": "The beginning of the Good News of Jesus Christ, the Son of God."
+        },
+        {
+          "v": 2,
+          "style": "p",
+          "text": "As it is written in the prophets,"
+        },
+        {
+          "style": "q1",
+          "text": "“Behold,[†] I send my messenger before your face,"
+        },
+        {
+          "style": "q2",
+          "text": "who will prepare your way before you:[*1]"
+        },
+        {
+          "v": 3,
+          "style": "q1",
+          "text": "the voice of one crying in the wilderness,"
+        },
+        {
+          "style": "q2",
+          "text": "‘Make ready the way of the Lord!"
+        },
+        {
+          "style": "q2",
+          "text": "Make his paths straight!’ ”[*2]"
+        }
+      ],
+      "notes": [
+        {
+          "mark": "†",
+          "text": "“Behold”, from “ἰδοὺ”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection."
+        },
+        {
+          "mark": "*1",
+          "text": "Malachi 3:1"
+        },
+        {
+          "mark": "*2",
+          "text": "Isaiah 40:3"
+        }
+      ]
+    },
+    {
+      "id": "oeb",
+      "name": "Open English Bible",
+      "short": "OEB",
+      "edition": "Release 2025.6, US spelling",
+      "url": "https://openenglishbible.org/oeb/2025.6/OEB-2025.6-US.usfm.zip",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "heading": "The Preparation",
+      "lines": [
+        {
+          "v": 1,
+          "style": "p",
+          "text": "The beginning of the good news about Jesus Christ."
+        },
+        {
+          "v": 2,
+          "style": "p",
+          "text": "It is said in the prophet Isaiah –"
+        },
+        {
+          "style": "q1",
+          "text": "‘I am sending my messenger ahead of you;"
+        },
+        {
+          "style": "q2",
+          "text": "he will prepare your way."
+        },
+        {
+          "v": 3,
+          "style": "q1",
+          "text": "The voice of one crying aloud in the wilderness:"
+        },
+        {
+          "style": "q2",
+          "text": "“Prepare the road for the Lord,"
+        },
+        {
+          "style": "q3",
+          "text": "make a straight path for him.”’"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "question": "Two differences stand out in verses 1–2. The WEB has “the Son of God” at the end of verse 1 and the OEB doesn’t. The WEB says “in the prophets”, the OEB “in the prophet Isaiah”. Which differences here are English style, and which need the textual notes? If you know this passage, where would you start?"
+}
