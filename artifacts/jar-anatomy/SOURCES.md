@@ -42,4 +42,4 @@ The Israel Museum's *Digital Dead Sea Scrolls* site is served over plain HTTP; i
 - `app.js`, `cut.js`: the live cut. `cut.js` computes the wedge masks, cut faces and lid lift from `geometry.json`.
 - `parts.json`: the labels, published values and source numbers the figure shows.
 
-Isometric styles are adapted from the anatomy kit (MIT License).
+Isometric styles are adapted from the anatomy kit (MIT License; the notice is in `LICENSE-anatomy-kit.txt`).
