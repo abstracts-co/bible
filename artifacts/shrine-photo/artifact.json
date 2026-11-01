@@ -1,7 +1,7 @@
 {
   "title": "Shrine of the Book",
-  "kind": "gallery",
-  "entry": "shrine-1.jpg",
+  "kind": "web",
+  "entry": "index.html",
   "category": "Photos",
-  "description": "Three Commons photographs with author and Creative Commons credits."
+  "description": "The building put up to house the first Cave 1 scrolls, in three Commons photographs, each credited under the image."
 }
