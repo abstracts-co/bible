@@ -13,6 +13,16 @@ You're probably here because a member asked you to help with something in this c
 - `artifacts/<id>/` is one artifact per folder: an optional `artifact.json` (`title`, `kind`, `entry`, `category`, `description`), the entry file, `preview.webp` for the card, local data and media, and `SOURCES.md` / `CREDITS.md`. Categories come from `abstracts.json`. Only files under `artifacts/` are served on the site, so anything an artifact shows has to be inside its folder.
 - `indexes/<doc>/` holds outlines and page text of long sources. Find the node in `index.json`, read `text/<node_id>.md`, then cite the PDF pages. See [indexes/README.md](indexes/README.md).
 - `skills/<name>/SKILL.md` is how this community likes particular jobs done. Read the one that matches the task before starting.
+  - [cite-an-archaeological-source](skills/cite-an-archaeological-source/SKILL.md): object, report, exact passage; dates, provenance and reconstruction kept apart
+  - [read-an-index](skills/read-an-index/SKILL.md): find the page through the outline, read the leaf, cite the source
+  - [check-a-citation](skills/check-a-citation/SKILL.md): open the source and say exactly what you checked
+  - [compare-a-passage](skills/compare-a-passage/SKILL.md): editions side by side, quotations intact, your own reading marked
+  - [review-a-translation](skills/review-a-translation/SKILL.md): review the language you actually know
+  - [add-a-timeline-event](skills/add-a-timeline-event/SKILL.md): keep the source's precision; discovery isn't announcement
+  - [map-a-find](skills/map-a-find/SKILL.md): the right kind of point, cited, and unknown entrances left unmapped
+  - [reconstruct-an-object](skills/reconstruct-an-object/SKILL.md): build from published dimensions and list the guesses
+  - [make-a-reading-guide](skills/make-a-reading-guide/SKILL.md): a real question and a few useful stops
+  - [correct-the-record](skills/correct-the-record/SKILL.md): fix every view and leave a trail
 - `reviews/` is who reviews what, and records of reviews that happened. `corrections/` is the trail of things we fixed.
 - `checks/verify.py` runs before every PR: `python3 checks/verify.py`.
 
