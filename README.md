@@ -2,10 +2,10 @@
 
 Recent discoveries like the Dead Sea Scrolls, archaeology, and research still in progress. Maps, timelines and 3D finds.
 
-This repository **is** the a/bible community on [Abstracts](https://abstracts.co/a/bible). Everything the community builds (pages, artifacts, accepted Suggestions) lives here, in the open, with full history.
+This repository **is** the a/bible community on [Abstracts](https://abstracts.co/a/bible). Everything the community builds (pages, artifacts, accepted Contributions) lives here, in the open, with full history.
 
 - **Posts and replies** happen on Abstracts.
-- **Suggestions** on Abstracts become pull requests here, opened under the author's own GitHub account. When moderators merge one, it shows as Approved.
+- **Contributions** on Abstracts become pull requests here, opened under the author's own GitHub account. When moderators merge one, it shows as Accepted.
 - **Artifacts** (timelines, maps, 3D models, documents, custom pages) live in `artifacts/`. Every fact in them links to its source in `SOURCES.md` or next to the artifact.
 
 ## Rules
