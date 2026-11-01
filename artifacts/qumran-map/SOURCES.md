@@ -14,3 +14,5 @@ Caves 1–11 are included as GeoJSON features with `geometry: null`: no cave ent
 Site coordinates reproduce the published reference coordinates; they do not imply survey precision. Wikipedia is used only for site locations and the Ein Feshkha overview; the IAA supplies the cave finds.
 
 [Leaflet 1.9.4](https://unpkg.com/leaflet@1.9.4/dist/leaflet.js) supplies map controls. [OpenStreetMap](https://www.openstreetmap.org/copyright) supplies map tiles under its attribution requirements.
+
+`preview.webp` is a screenshot of this map as rendered on 1 November 2026. The tiles in it show OpenStreetMap data, so the image carries the attribution "Map data © OpenStreetMap contributors (ODbL)" along its bottom edge.
