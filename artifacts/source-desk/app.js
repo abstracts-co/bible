@@ -8,14 +8,15 @@ const el = (tag, cls, text) => {
   return n;
 };
 
-// Just enough Markdown for these notes: # heading, paragraphs, **bold**, *italic*, [links](url).
+// Just enough Markdown for these notes: # heading, paragraphs, **bold**, *italic*, `code`, [links](url).
 const inline = (parent, text) => {
-  const re = /\*\*([^*]+)\*\*|\*([^*]+)\*|\[([^\]]+)\]\(([^)\s]+)\)/g;
+  const re = /\*\*([^*]+)\*\*|\*([^*]+)\*|\[([^\]]+)\]\(([^)\s]+)\)|`([^`]+)`/g;
   let last = 0;
   for (const m of text.matchAll(re)) {
     parent.append(text.slice(last, m.index));
     if (m[1]) parent.append(el('b', '', m[1]));
     else if (m[2]) parent.append(el('i', '', m[2]));
+    else if (m[5]) parent.append(el('code', '', m[5]));
     else {
       const a = el('a', '', m[3]);
       a.href = m[4];
@@ -68,7 +69,7 @@ try {
     fig.append(img);
     const cap = el('figcaption', '', c.figure.credit + (c.figure.page ? ` ${c.figure.page}.` : ''));
     if (c.figure.link) {
-      const a = el('a', '', ' Original');
+      const a = el('a', '', c.figure.linkText ?? 'Original');
       a.href = c.figure.link;
       a.target = '_blank';
       a.rel = 'noopener';
@@ -76,6 +77,7 @@ try {
     }
     fig.append(cap);
     card.replaceChildren(fig, render(notes[i].replace(/\{dimensions[^}]*\}/, sizes)));
+    card.classList.toggle('wide', !!c.figure.wide);
     card.setAttribute('aria-labelledby', 'tab-' + c.id);
   };
   cards.forEach((c, i) => {

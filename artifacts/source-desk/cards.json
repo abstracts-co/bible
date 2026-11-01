@@ -32,7 +32,8 @@
       "alt": "Diagram of the 54 columns of 1QIsaa in a row. Columns 1 to 27 are tan, 28 to 54 green. A dashed line marks the seam between 27 and 28, column 27 is drawn shorter for the gap at its foot, and a bracket over 27 to 29 marks the handwriting switch found in 2021.",
       "credit": "Our own diagram, drawn from the numbers in Popović, Dhali & Schomaker (2021). Not to scale.",
       "page": "",
-      "link": ""
+      "link": "",
+      "wide": true
     }
   },
   {
@@ -44,7 +45,8 @@
       "alt": "Our 3D reconstruction of jar KhQ 1474: a tall, plain clay-coloured cylindrical jar with a flat lid, casting a shadow, with a 10 cm scale bar.",
       "credit": "Render of our own model (artifacts/jar), not a photograph of the jar.",
       "page": "",
-      "link": "https://abstracts.co/a/bible/artifacts/jar"
+      "link": "https://abstracts.co/a/bible/artifacts/jar",
+      "linkText": "Open the model"
     }
   }
 ]
