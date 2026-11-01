@@ -62,6 +62,16 @@ Who the people are is in [reviews/README.md](reviews/README.md). Right now that'
 - If you changed something visual, look at it inside the site's artifact frame, which is only about 580 × 360 on a laptop and smaller on a phone. A branch on this repo can be opened at `abstracts.co/a/bible/artifacts/<id>?ref=<branch>`. From a fork, serve the folder locally and look at it at that size. A full browser tab working isn't enough.
 - Put credits for every image next to the image, not only in the repo.
 
+## Labels
+
+A maintainer labels each PR by type: `source`, `translation`, `manuscript`, `archaeology`, `timeline`, `map`, `visual`, `guide`, `correction`, `community`. A PR can have more than one.
+
+Then there are the ones that say what's left to do: `needs-citation`, `needs-language`, `needs-subject`, `needs-rights`, `disputed`. They come off when that thing is done. `ready` means every check the PR needs has happened on its current commit.
+
+Labels are about the work left on a PR. They don't say whether a claim is true, and they don't earn anyone points.
+
+Each area's reviewer is set in [.github/CODEOWNERS](.github/CODEOWNERS), so GitHub asks them automatically. Right now every line says `@AGZ-TX`.
+
 ## When people disagree
 
 First pin down the exact claim and the exact source locator, in the PR or the Wall thread it came from. Then work out what kind of disagreement it is: a transcription, a measurement, a date, an interpretation, or just scope.

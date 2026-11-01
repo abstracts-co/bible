@@ -1,0 +1,25 @@
+# Who gets asked to review changes to each area. Last matching line wins.
+# Every area is AGZ-TX for now because that's the only maintainer. When
+# someone else takes on an area (and has write access, and has said yes),
+# their login replaces or joins the line for it. Several logins on one line
+# means any one of them can approve; it can't require "a linguist AND an
+# archaeologist", so that stays in the review record. See reviews/README.md.
+
+*                             @AGZ-TX
+
+/indexes/                     @AGZ-TX
+/corrections/                 @AGZ-TX
+/reviews/                     @AGZ-TX
+
+/artifacts/timeline/          @AGZ-TX
+/artifacts/qumran-map/        @AGZ-TX
+/artifacts/jar/               @AGZ-TX
+/artifacts/jar-anatomy/       @AGZ-TX
+/artifacts/shrine-photo/      @AGZ-TX
+/artifacts/source-desk/       @AGZ-TX
+/artifacts/translation-desk/  @AGZ-TX
+/artifacts/start-here/        @AGZ-TX
+
+/skills/                      @AGZ-TX
+/checks/                      @AGZ-TX
+/.github/                     @AGZ-TX
